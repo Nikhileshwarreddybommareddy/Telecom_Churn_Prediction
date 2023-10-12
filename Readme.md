@@ -21,7 +21,7 @@ The goal of this project is to predict telecom customer churn using logistic reg
     **Background:**
     -    Telecom customer churn refers to the phenomenon where customers switch from one telecom service provider to another or cancel their subscriptions. Understanding the factors influencing churn is vital for telecom companies to devise strategies to retain customers and enhance customer satisfaction.
 
-**Business Problem:**
+    **Business Problem:**
     -   The task is to predict customer churn based on various telecom service usage patterns, customer demographics, and customer service interactions. Identifying patterns in customer behavior leading to churn helps the company take proactive measures to retain customers and improve service quality.
 
    **Dataset:**
